@@ -46,9 +46,3 @@ Predict the RUL of each engine at its last observed cycle using only sensor data
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/jet-engine-rul-prediction.git
-   cd jet-engine-rul-prediction
