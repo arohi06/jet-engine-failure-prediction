@@ -34,6 +34,8 @@ Predict the RUL of each engine at its last observed cycle using only sensor data
 - **RMSE**: 20.76  
 - **R² Score**:  0.75
 - **Feature Importance**: Top 10 most influential sensors visualized using a horizontal bar chart
+- **True vs Predicted RUL**: Scatter plot showing how closely the model's predictions match actual RUL values  
+
 
 ---
 
